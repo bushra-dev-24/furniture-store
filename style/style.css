@@ -57,11 +57,6 @@ img {
     box-shadow: 0 20px 20px -10px #e1e1e11c;
 }
 
-.navbar li:hover {
-    animation-name: scaleUp;
-    animation-duration: 1s;
-}
-
 /*hero*/
 .hero img, .hero .images div {
     border-radius: 1.5rem;
@@ -127,10 +122,6 @@ img {
     grid-template-columns: repeat(2, 1fr);
 }
 
-.products-item:hover {
-    animation-name: scaleUp;
-    animation-duration: 0.1s;
-}
 
 /*about*/
 .about.d-flex {
@@ -174,11 +165,6 @@ img {
 /*footer*/
 .footer {
     margin-bottom: 0;
-}
-
-.footer li:hover {
-    animation-name: scaleUp;
-    animation-duration: 0.1s;
 }
 
 /*RD*/
@@ -294,3 +280,4 @@ img {
         padding: 0.75rem 0;
     }
 }
+
